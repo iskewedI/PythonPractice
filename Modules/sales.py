@@ -1,4 +1,15 @@
+""" This module provides sales helper functions """
+
+
 def calc_shipping():
+    """ Calculate the shipping 
+
+    Parameters:
+    none
+
+    Returns:
+    nothing
+    """
     print("Calculating...")
 
 
